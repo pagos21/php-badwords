@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.big_cont{
+  padding: 5%;
+}
+
+h1{
+  color: orange;
+  margin-bottom: 40px;
+}
+
+p{
+  color: green;
+  margin: 35px 0;
+}
